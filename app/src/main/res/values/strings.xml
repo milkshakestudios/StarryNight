@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Starry Night</string>
+    <string name="loading_stars">Loading</string>
+    <string name="internet_required">Internet Connection Required</string>
+    <string name="please_connect_to_internet">Please connect to the internet before trying to fetch Stars</string>
+    <string name="btn_ok">OK</string>
+    <string name="stars_out_tonight">Stars out tonight</string>
+    <string name="focused_star">Focused Star</string>
+    <string name="waiting_for_some_stars_to_show_up">Waiting for some Stars to show up!</string>
+    <string name="occupation">Occupation</string>
+    <string name="born">Born</string>
+    <string name="description">Description</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="star_id">Star Id</string>
+    <string name="sort">SORT</string>
+    <string name="connection_required">Please connect to the internet to fetch data</string>
+    <string name="end_point_error">Cloud Endpoint Error</string>
+    <string name="cloud_endpoint_description">The Cloud endpoint is not responding, please try again later.</string>
+</resources>
